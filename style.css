@@ -1,7 +1,7 @@
 /* Css Variable and Theme */
 :root {
   --bg-color: #1e1e1e;
-  --display-bg: #f9f9f9;
+  --display-bg: #333;
   --btn-bg: #333;
   --btn-hover: #444;
   --btn-clear: #e74c3c;
